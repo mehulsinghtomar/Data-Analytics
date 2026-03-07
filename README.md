@@ -24,3 +24,4 @@
 ## Files
 - consumption.csv → dataset
 - data_cleaning.sql → SQL queries used for data preparation
+- Refined_dataset.csv → Refined dataset with data coloumn formatted
