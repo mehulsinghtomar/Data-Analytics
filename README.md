@@ -25,3 +25,20 @@
 - consumption.csv → dataset
 - data_cleaning.sql → SQL queries used for data preparation
 - Refined_dataset.csv → Refined dataset with data coloumn formatted
+- 
+## Tableau Integration Progress
+
+The dataset prepared in MySQL has been successfully connected to Tableau.
+
+Steps completed:
+
+* Connected Tableau to MySQL database
+* Verified dataset loading
+* Confirmed fields:
+
+  * state
+  * region
+  * latitude
+  * longitude
+  * dates
+  * usage
