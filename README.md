@@ -42,3 +42,21 @@ Steps completed:
   * longitude
   * dates
   * usage
+## Tableau Visualizations
+
+The dataset was connected to Tableau and the following visualizations were created:
+
+* 2019 Energy Consumption
+* 2020 Energy Consumption
+* Total Consumption
+* Usage by Region
+* Top N States
+* Bottom N States
+* 2019 Month-wise Consumption
+* 2020 Month-wise Consumption
+* Usage Before and After Lockdown
+* Total Regional Consumption Using Pie-Chart
+* Region-wise Usage
+* State Usage
+* Quarter Usage
+* Usage by Year
