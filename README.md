@@ -61,5 +61,10 @@ The dataset was connected to Tableau and the following visualizations were creat
 * Quarter Usage
 * Usage by Year
 
-Further, We have made three Dashboards to ease the visuaization on spot.
-They are integrated with navigation support.
+FURTHER:-
+1. FILTER WERE USED TO MAKE THE GRAPH ORE ACCURATE AND TO THE CONTENT.
+2. THREE DASHBOARDS WERE CREATED.
+3. EACH DASHBOARD IS INTEGRATED WITH NAVIGATION.
+4. A STORY WAS CREATED.
+5. THE IDEA OF STORY IS ENERGY CONSUMPTION ACROSS INDIA IN 2019 AND 2020.
+
