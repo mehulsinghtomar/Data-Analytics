@@ -60,3 +60,6 @@ The dataset was connected to Tableau and the following visualizations were creat
 * State Usage
 * Quarter Usage
 * Usage by Year
+
+Further, We have made three Dashboards to ease the visuaization on spot.
+They are integrated with navigation support.
