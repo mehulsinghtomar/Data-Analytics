@@ -72,3 +72,11 @@ FURTHER:-
 https://public.tableau.com/views/ENERGYCONSUMPTIONVISUALIZATION/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 <img width="1883" height="1067" alt="Screenshot 2026-03-08 132437" src="https://github.com/user-attachments/assets/02b3df4d-bcf8-4660-afda-a3df22282915" />
 
+# Web Integration
+
+This project embeds a Tableau dashboard inside a Flask web application.
+
+## Technologies Used
+- Python
+- Flask
+- Tableau Public
